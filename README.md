@@ -16,7 +16,16 @@ Görsel odaklı, modern Android uygulamaları geliştirmeye odaklanmış bir mob
 **Diğer Diller (Orta Düzey):**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Retrofit](https://img.shields.io/badge/Retrofit-orange?style=for-the-badge)
+
+---
+
+### 🌟 Öne Çıkan Projelerim
+
+#### 🥧 Pi-Soundscape (Python & Veri Sanatı)
+*Pi sayısının ilk 10.000 basamağını kullanarak oluşturulmuş görsel ve işitsel bir sanat projesi.*
+- **Veri Görselleştirme:** Her rakama (0-9) özel renk ataması ile dinamik bir görsel şölen.
+- **Ses Sentezleme:** Sayı dizilerinin frekanslara ve notalara dönüştürülmesiyle oluşan benzersiz algoritmik melodi.
+- **Araçlar:** Python, Visual Studio.
 
 ---
 
