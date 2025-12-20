@@ -1,40 +1,59 @@
-# Selam, Ben Zekerya! 👋
+# Selam, Ben Zekerya 👋
 
-### 📱 Android Developer | Kotlin & Jetpack Compose Enthusiast
+Modern Android teknolojileriyle (**Kotlin & Jetpack Compose**) kullanıcı dostu mobil uygulamalar geliştiriyorum.
 
-Görsel odaklı, modern Android uygulamaları geliştirmeye odaklanmış bir mobil geliştiriciyim. Android projelerimin yanı sıra farklı programlama dilleriyle de algoritma ve yazılım geliştirme süreçlerine hakimim.
+Yazılım geliştirme mantığını **C** dili ile (Dev-C kullanarak) öğrendim. **Python** ile de farklı algoritmalar kurmayı ve projeler geliştirmeyi seviyorum. Şu an ise tüm odağımı mobil dünyaya vermiş durumdayım.
 
----
+### 🚀 Uzmanlık Alanlarım (Main Stack)
+*Bu teknolojileri projelerimde aktif olarak kullanıyorum.*
 
-### 🛠 Tech Stack (Kullandığım Teknolojiler & Diller)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white)
+![Compose](https://img.shields.io/badge/-Jetpack%20Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white)
 
-**Mobil Geliştirme:**
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+### 🛠️ Aşina Olduklarım & Araçlar
+*Algoritma geliştirme ve hobi projelerinde kullandıklarım.*
 
-**Diğer Diller (Orta Düzey):**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
----
-
-### 🌟 Öne Çıkan Projelerim
-
-#### 🥧 Pi-Soundscape (Python & Veri Sanatı)
-*Pi sayısının ilk 10.000 basamağını kullanarak oluşturulmuş görsel ve işitsel bir sanat projesi.*
-- **Veri Görselleştirme:** Her rakama (0-9) özel renk ataması ile dinamik bir görsel şölen.
-- **Ses Sentezleme:** Sayı dizilerinin frekanslara ve notalara dönüştürülmesiyle oluşan benzersiz algoritmik melodi.
-- **Araçlar:** Python, Visual Studio.
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
-![Zekerya's GitHub stats](https://github-readme-stats.vercel.app/api?username=zekeryahazer&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zekeryahazer&layout=compact&theme=radical)
+### 🌟 Projelerim
+
+#### 🎬 1. MoodFlix (Android & AI)
+*Mobil Geliştirici Challenge kapsamında geliştirdiğim; kullanıcının moduna göre film öneren akıllı asistan.*
+
+* **Teknolojiler:** Kotlin, Jetpack Compose, MVVM, Google Gemini AI, TMDB API.
+* **Özellikler:**
+    * **AI Destekli Öneri:** Kullanıcının yazdığı hislere veya çektiği fotoğrafa (Image Recognition) göre film tavsiyesi.
+    * **Film Detayları:** TMDB API entegrasyonu ile poster, özet ve YouTube fragman erişimi.
+    * **Modern Mimari:** Temiz kod (Clean Architecture) ve Hata Yönetimi.
+
+#### 🥧 2. Pi-Soundscape (Python)
+*Pi sayısının sonsuzluğunda gizli olan ahengi ortaya çıkarmak için geliştirdiğim bir Veri Sanatı projesi.*
+
+* **Ne Yapıyor?** Sayısal verileri Python ile işleyip renklere ve seslere dönüştürüyor.
+* **Amaç:** Matematiği görsel ve işitsel bir sanata çevirmek.
+
+#### ⚙️ 3. C-Logic Lab (C Dili)
+*Yazılımın temellerini attığım, düşük seviyeli algoritma ve veri yapıları çalışmalarım.*
+
+* **İçerik:** Temel sıralama algoritmaları, bellek yönetimi (pointer) pratikleri ve mantıksal problem çözümleri.
+* **Amaç:** Programlamanın "mutfağını" ve çalışma mantığını kavramak.
 
 ---
 
-### 📫 Sosyal Medya & İletişim
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zekerya-hazer-2773242b9)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zekeryahazer10@gmail.com)
+### 📊 Github İstatistiklerim
+![Zekerya's GitHub stats](https://github-readme-stats.vercel.app/api?username=zekeryahazer&show_icons=true&theme=radical&hide_border=true)
+
+---
+
+<div align="center">
+<a href="https://www.linkedin.com/in/zekerya-hazer-2773242b9" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:zekeryahazer10@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+</div>
