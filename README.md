@@ -38,7 +38,7 @@ Programlamanın temellerini **C dili** ile (Dev-C ortamında) edindim.
 
 **Özellikler:**
 - **AI Destekli Öneri:** Kullanıcının yazdığı duygu durumuna veya seçtiği görsele göre film tavsiyesi
-- **Film Detayları:** TMDB API ile poster, özet ve YouTube fragman entegrasyonu
+- **Film Detayları:** TMDB API ile poster
 - **Modern Mimari:** Clean Architecture prensipleri ve sağlam hata yönetimi
 
 ---
